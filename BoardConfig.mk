@@ -28,3 +28,6 @@ TARGET_OTA_ASSERT_DEVICE := zerofltemtr,zeroflte
 
 # Kernel
 TARGET_KERNEL_CONFIG := exynos7420-zeroflte_mtr_defconfig
+
+# Partitions
+BOARD_SYSTEMIMAGE_PARTITION_SIZE := 4110417920
