@@ -1,8 +1,3 @@
-# Audio
-lib/lib_DNSe_EP_ver216b.so
-lib/lib_DNSe_NRSS_ver230.so
-lib/lib_SamsungRec_V04012_WNR002.so
-
 # Bluetooth
 vendor/firmware/bcm4358A3_V0031.0048.hcd
 
@@ -10,7 +5,5 @@ vendor/firmware/bcm4358A3_V0031.0048.hcd
 app/mcRegistry/ffffffff000000000000000000000015.tlbin
 
 # Radio
-lib/libril.so
-lib64/libril.so
 lib/libsec-ril.so
 lib64/libsec-ril.so

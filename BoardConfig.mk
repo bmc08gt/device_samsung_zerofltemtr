@@ -24,10 +24,10 @@
 include device/samsung/zero-common/BoardConfigCommon.mk
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := zerofltemtr,zeroflte
+TARGET_OTA_ASSERT_DEVICE := zerofltemtr
 
 # Kernel
-TARGET_KERNEL_CONFIG := exynos7420-zeroflte_mtr_defconfig
+TARGET_KERNEL_CONFIG := cm_zerofltemtr_defconfig
 
 # Partitions
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 4110417920
